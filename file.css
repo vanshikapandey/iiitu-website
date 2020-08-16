@@ -1,0 +1,25 @@
+#logo{
+    width:14%;
+    height: 14%;
+    float: left;
+    margin-left: 4%;
+    margin-top: 1%;
+}
+#heading1{
+    font-family: 'Lora', serif;
+    text-align: center;
+}
+i{
+    font-size:20px; 
+}
+#heading2{
+    text-align: center;
+}
+#heading3{
+    text-align: center;
+}
+#section1{
+    margin-top: 5%;
+    padding: 0;
+    
+}
